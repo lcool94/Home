@@ -1,0 +1,1 @@
+consolo.out('hello word')
